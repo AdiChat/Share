@@ -1,3 +1,4 @@
-# Share
+# Share : Σ Sigma Blog ∃ ∀ <br>
+A Σ summation of thoughts from all over the world Ω <br>
 A blog with advanced features<br>
-To be updated soon.
+Use the Universal blog live at :  http://sigma-blog.herokuapp.com/ <br>
