@@ -4,3 +4,6 @@ A blog with advanced features such as administrator and moderator control, pagin
 Use the Universal blog live at :  http://sigma-blog.herokuapp.com/ <br>
 The front page of the application :<br>
 ![alt text](Preview/preview.png " Sigma Blog")<br>
+
+
+
