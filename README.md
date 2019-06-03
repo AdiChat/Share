@@ -6,6 +6,7 @@ An Earthly blog with advanced features such as administrator and moderator contr
 Use the Universal blog live at :  http://sigma-blog.herokuapp.com/ <br>
 The front page of the application :<br>
 ![alt text](Preview/preview.png " Sigma Blog ")<br>
+[![Open Source Helpers](https://www.codetriage.com/adichat/share/badges/users.svg)](https://www.codetriage.com/adichat/share)
 
 Feel free to contribute. :pray:
 
